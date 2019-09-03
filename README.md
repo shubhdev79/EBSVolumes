@@ -1,5 +1,5 @@
 # EBSVolumes
-Attaching EBS Volumes in EC2 Instance through Terraform &amp; adding the space by going in the Server - Disk Management
+Attaching & Mounting EBS Volumes in EC2 Instances through Terraform - Disk Management(Windows)
 
 * Attach EBS 
 * Make drive Online in Windows Instance -> Disk Management
